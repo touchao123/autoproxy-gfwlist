@@ -14,3 +14,6 @@ or the one in `trunk` branch:
 ----
 
 Don't like this README file? Switch to [trunk branch](https://github.com/calfzhou/autoproxy-gfwlist/tree/trunk), which is exactly the same with official svn repo.
+
+
+[blog](http://ju.outofmemory.cn/entry/200813)
